@@ -1,0 +1,1 @@
+{"jobID":"8595abdd-853f-d0a5-63f7-f1cada991ae7","spec":{"type":"policy","cause":{"Message":"","User":"Steve Lynch \u003cslynch00@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
